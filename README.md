@@ -1,6 +1,6 @@
 # http://badamap.com/
 # http://bogol.duckdns.org/ 
-# https://Bogol-E.github.io/badamap 
+# https://JWY0717.github.io/BADAMAP 
 > - [ ] 마커
 >> - [x] 대한민국 좌표 범위 제한, 줌레벨 제한, 기본 뷰 설정
 >> - [x] 좌표 위치 SVG 마커 표시
